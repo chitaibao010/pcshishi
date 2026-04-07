@@ -100,7 +100,7 @@
           "value": "1"
         },
         {
-          "category": 4,
+          "category": 4，
           "name": "max-buffer-size",
           "value": "5242880"
         },
@@ -195,7 +195,7 @@
           "value": "1"
         },
         {
-          "category": 4，
+          "category": 4,
           "name": "mediacodec-auto-rotate",
           "value": "1"
         },
