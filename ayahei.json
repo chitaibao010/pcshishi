@@ -4,7 +4,7 @@
       "key": "新浪资源",
       "name": "新浪资源",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn                               ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -100,7 +100,7 @@
           "value": "1"
         },
         {
-          "category": 4，
+          "category": 4,
           "name": "max-buffer-size",
           "value": "5242880"
         },
