@@ -1,12 +1,12 @@
 {
-  "spider": "",
+  "spider": ""，
   "wallpaper": "https://api.kdcc.cn",
   "sites": [
     {
-      "key": "site_1775561044248",
-      "name": "",
+      "key": "site_1775561426374",
+      "name": "新浪啊",
       "type": 1,
-      "api": "",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -14,9 +14,9 @@
   ],
   "parses": [
     {
-      "name": "新浪资源",
+      "name": "新解析接口",
       "type": 0,
-      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "url": "",
       "ext": {
         "flag": [
           "youku",
