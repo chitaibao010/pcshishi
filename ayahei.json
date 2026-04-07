@@ -1,14 +1,44 @@
 {
-  "key": "玩偶",
-  "name": "👽玩偶哥哥┃4K弹幕",
-  "type": 3,
-  "api": "csp_WoGGGuard",
-  "timeout": 30,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-    "Cloud-drive": "tvfan/Cloud-drive.txt"
-  },
-  "jar": "https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
+  "spider": "",
+  "wallpaper": "https://api.kdcc.cn",
+  "sites": [
+    {
+      "key": "site_1775561426374",
+      "name": "新浪啊",
+      "type": 1,
+      "api": "csp_WoGGGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "新解析接口",
+      "type": 0,
+      "url": "",
+      "ext": {
+        "flag": [
+          "youku",
+          "qq",
+          "iqiyi",
+          "qiyi",
+          "letv",
+          "sohu",
+          "tudou",
+          "pptv",
+          "mgtv",
+          "wasu"
+        ]
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "",
+      "type": 0,
+      "url": "",
+      "epg": ""
+    }
+  ]
 }
