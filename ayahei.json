@@ -38,6 +38,18 @@
       "filterable": "0",
       "changeable": 0,
       "ext": {}
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃秒播(安卓源)",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "jar": "https://cnb.cool/bhmb666/api/-/git/raw/master/spider.jpg;md5;f68903c72b226065604118a8047918f0",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
     }
   ]
 }
