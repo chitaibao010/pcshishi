@@ -57,7 +57,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-      "jar": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
+      "jar": "../jar/spider.jar;md5=7633f8ea346c082b7aa163be58aed023"
     }
   ]
 }
