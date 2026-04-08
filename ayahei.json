@@ -16,7 +16,7 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 1,
-      "ext": {}
+      "ext": ""
     },
     {
       "key": "Qupans",
@@ -25,7 +25,7 @@
       "api": "csp_Qupans",
       "searchable": 1,
       "changeable": 1,
-      "ext": {}
+      "ext": ""
     },
     {
       "key": "SeedHub",
@@ -34,7 +34,7 @@
       "api": "csp_SeedHub",
       "searchable": 1,
       "changeable": 1,
-      "ext": {}
+      "ext": ""
     },
     {
       "key": "BiXin",
@@ -43,37 +43,37 @@
       "api": "csp_BiXin",
       "searchable": 1,
       "changeable": 1,
-      "ext": {}
+      "ext": ""
     },
     {
       "key": "ChangZhang",
       "name": "厂长影视",
       "type": 3,
       "api": "csp_ChangZhang",
-      "searchable": "1",
-      "filterable": "0",
+      "searchable": 1,
+      "filterable": 0,
       "changeable": 0,
-      "ext": {}
+      "ext": ""
     },
     {
       "key": "Zxzj",
       "name": "在线之家",
       "type": 3,
       "api": "csp_Zxzj",
-      "searchable": "1",
-      "filterable": "0",
+      "searchable": 1,
+      "filterable": 0,
       "changeable": 0,
-      "ext": {}
+      "ext": ""
     },
     {
       "key": "Ikanbot",
       "name": "爱看机器人",
       "type": 3,
       "api": "csp_Ikanbot",
-      "searchable": "1",
-      "filterable": "0",
+      "searchable": 1,
+      "filterable": 0,
       "changeable": 0,
-      "ext": {}
-    },
+      "ext": ""
+    }
   ]
 }
