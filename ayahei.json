@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;b3f23c52278b42b7ea0cc259f3f6f1c5",
+  "spider": "../jar/spider.jar;md5;b3f23c52278b42b7ea0cc259f3f6f1c5",
   "sites": [
     {
       "key": "Intruduce",
@@ -19,40 +19,12 @@
       "ext": ""
     },
     {
-      "key": "Qupans",
-      "name": "Qupans|Pan",
-      "type": 3,
-      "api": "csp_Qupans",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": ""
-    },
-    {
       "key": "SeedHub",
       "name": "SeedHub",
       "type": 3,
       "api": "csp_SeedHub",
       "searchable": 1,
       "changeable": 1,
-      "ext": ""
-    },
-    {
-      "key": "BiXin",
-      "name": "彼心|139Pan",
-      "type": 3,
-      "api": "csp_BiXin",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": ""
-    },
-    {
-      "key": "ChangZhang",
-      "name": "厂长影视",
-      "type": 3,
-      "api": "csp_ChangZhang",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
       "ext": ""
     },
     {
@@ -74,6 +46,30 @@
       "filterable": 0,
       "changeable": 0,
       "ext": ""
+    },
+    {
+      "key": "seed",
+      "name": "💡聚剧剧┃三盘",
+      "type": 3,
+      "api": "csp_SeedhubGuard",
+      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    {
+      "key": "厂长",
+      "name": "📔厂长┃秒播",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     }
   ]
 }
