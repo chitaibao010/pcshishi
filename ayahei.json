@@ -75,38 +75,5 @@
       "changeable": 0,
       "ext": ""
     },
-    {
-      "key": "hipy_js_4K-AV",
-      "name": "4K-AV(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/4K-AV.js",
-      "jar": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
-    },
-    {
-      "key": "hipy_js_4k剧院",
-      "name": "4k剧院(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/4k剧院.js",
-      "jar": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
-    },
-    {
-      "key": "hipy_js_4khdr",
-      "name": "4khdr(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/4khdr.js",
-      "jar": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
-    }
   ]
 }
