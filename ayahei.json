@@ -1,14 +1,6 @@
 {
-  "spider": "../jar/spider.jar;md5;b3f23c52278b42b7ea0cc259f3f6f1c5",
+  "spider": "../jar/spider.jar;md5;b3f23c52278b42b7ea0cc259f3f6f1c5"，
   "sites": [
-    {
-      "key": "Intruduce",
-      "name": "验证设置",
-      "type": 3,
-      "api": "csp_Introduce",
-      "searchable": 0,
-      "changeable": 0
-    },
     {
       "key": "玩偶",
       "name": "玩偶",
@@ -16,7 +8,7 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 1,
-      "ext": ""
+      "ext": {}
     },
     {
       "key": "SeedHub",
@@ -25,27 +17,27 @@
       "api": "csp_SeedHub",
       "searchable": 1,
       "changeable": 1,
-      "ext": ""
+      "ext": {}
     },
     {
       "key": "Zxzj",
       "name": "在线之家",
       "type": 3,
       "api": "csp_Zxzj",
-      "searchable": 1,
-      "filterable": 0,
+      "searchable": "1",
+      "filterable": "0",
       "changeable": 0,
-      "ext": ""
+      "ext": {}
     },
     {
       "key": "Ikanbot",
       "name": "爱看机器人",
       "type": 3,
       "api": "csp_Ikanbot",
-      "searchable": 1,
-      "filterable": 0,
+      "searchable": "1",
+      "filterable": "0",
       "changeable": 0,
-      "ext": ""
+      "ext": {}
     }
   ]
 }
