@@ -1,1 +1,32 @@
-
+{
+  "name": "我的自定义TVBox源",
+  "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",  // 可选，用于多仓
+  "sites": [
+    {
+      "key": "csp_阿里",           // 站点唯一标识
+      "name": "阿里影视",          // 显示名称
+      "type": 3,                   // 通常 3 表示 js 或 jar 爬虫
+      "api": "https://你的解析地址/api.php",  // 或 jar 包路径
+      "searchable": 1,             // 是否支持搜索 1=是 0=否
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    // 可以继续添加更多站点...
+  ],
+  "lives": [                       // 直播源（可选）
+    {
+      "name": "我的直播",
+      "type": 0,
+      "url": "http://你的直播源地址/live.txt"   // 支持 txt 或 m3u 格式
+    }
+  ],
+  "parses": [                      // 解析线路（播放时解析视频地址）
+    {
+      "name": "解析1",
+      "type": 1,
+      "url": "https://你的解析接口"
+    }
+  ],
+  "rules": [ ... ],                // 一些过滤规则，可选
+  "jar": "https://你的jar包地址/lib.jar"   // 如果用了 jar 爬虫，需要这个
+}
