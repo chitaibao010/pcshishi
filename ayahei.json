@@ -48,19 +48,6 @@
       "ext": ""
     },
     {
-      "key": "seed",
-      "name": "💡聚剧剧┃三盘",
-      "type": 3,
-      "api": "csp_SeedhubGuard",
-      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-    },
-    {
       "key": "厂长",
       "name": "📔厂长┃秒播",
       "type": 3,
