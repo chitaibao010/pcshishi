@@ -1,79 +1,79 @@
-"sites": [
-  {
-    "key": "home",
-    "name": "首页",
-    "type": 3,
-    "api": "csp_Introduce",
-    "searchable": 0,
-    "changeable": 0,
-    "ext": {
-      "home": true
-    }
-  },
-  {
-    "key": "玩偶",
-    "name": "玩偶",
-    "type": 3,
-    "api": "csp_Wogg",
-    "searchable": 1,
-    "changeable": 1,
-    "ext": {}
-  },
-  {
-    "key": "Qupans",
-    "name": "Qupans|Pan",
-    "type": 3,
-    "api": "csp_Qupans",
-    "searchable": 1,
-    "changeable": 1,
-    "ext": {}
-  },
-  {
-    "key": "SeedHub",
-    "name": "SeedHub",
-    "type": 3,
-    "api": "csp_SeedHub",
-    "searchable": 1,
-    "changeable": 1,
-    "ext": {}
-  },
-  {
-    "key": "BiXin",
-    "name": "彼心|139Pan",
-    "type": 3,
-    "api": "csp_BiXin",
-    "searchable": 1,
-    "changeable": 1,
-    "ext": {}
-  },
-  {
-    "key": "ChangZhang",
-    "name": "厂长影视",
-    "type": 3,
-    "api": "csp_ChangZhang",
-    "searchable": 1,
-    "filterable": 0,
-    "changeable": 0,
-    "ext": {}
-  },
-  {
-    "key": "Zxzj",
-    "name": "在线之家",
-    "type": 3,
-    "api": "csp_Zxzj",
-    "searchable": 1,
-    "filterable": 0,
-    "changeable": 0,
-    "ext": {}
-  },
-  {
-    "key": "Ikanbot",
-    "name": "爱看机器人",
-    "type": 3,
-    "api": "csp_Ikanbot",
-    "searchable": 1,
-    "filterable": 0,
-    "changeable": 0,
-    "ext": {}
-  }
-]
+{
+  "spider": "../jar/spider.jar;md5;b3f23c52278b42b7ea0cc259f3f6f1c5",
+  "sites": [
+    {
+      "key": "Intruduce",
+      "name": "验证设置",
+      "type": 3,
+      "api": "csp_Introduce",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
+    },
+    {
+      "key": "Qupans",
+      "name": "Qupans|Pan",
+      "type": 3,
+      "api": "csp_Qupans",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
+    },
+    {
+      "key": "SeedHub",
+      "name": "SeedHub",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
+    },
+    {
+      "key": "BiXin",
+      "name": "彼心|139Pan",
+      "type": 3,
+      "api": "csp_BiXin",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
+    },
+    {
+      "key": "ChangZhang",
+      "name": "厂长影视",
+      "type": 3,
+      "api": "csp_ChangZhang",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "Zxzj",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "Ikanbot",
+      "name": "爱看机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+  ]
+}
