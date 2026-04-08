@@ -52,12 +52,12 @@
       "name": "📔厂长┃秒播",
       "type": 3,
       "api": "csp_NewCzGuard",
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg;md5;96ea56039dad3f4c0438f9b1f949a66a",
       "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-      "jar": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
     }
   ]
 }
