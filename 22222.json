@@ -11,7 +11,7 @@
     },
     {
       "key": "没吃饱",
-      "name": "吃了吗",
+      "name": "没吃饱",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
       "searchable": 1,
