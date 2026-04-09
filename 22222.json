@@ -4,7 +4,7 @@
       "key": "点播源",
       "name": "点播源",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlyun/at/xmlsea/",
       "searchable": 1,
       "changeable": 1,
       "playerType": 1,
