@@ -3,7 +3,7 @@
     {
       "key": "点播源",
       "name": "点播源",
-      "type": 1,
+      "type": 0,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlyun/at/xmlsea/",
       "searchable": 1,
       "changeable": 1,
