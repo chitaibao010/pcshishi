@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "maotai_cms",
-      "name": "哈哈",
+      "key": "吃了吗",
+      "name": "吃了吗",
       "type": 0,
       "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -10,8 +10,8 @@
       "filterable": 1
     },
     {
-      "key": "zy_1080p",
-      "name": "啊啊",
+      "key": "没吃饱",
+      "name": "吃了吗",
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -22,8 +22,8 @@
   "parses": [
     {
       "name": "多线解析",
-      "type": 0,
-      "url": "https://jx.yayazy.cc/m3u8/?url="
+      "type": 2,
+      "url": "https://www.iqiyizyjx.com/?url="
     }
   ],
   "lives": [
