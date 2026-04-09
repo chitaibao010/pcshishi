@@ -4,7 +4,7 @@
       "key": "点播源",
       "name": "点播源",
       "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/",
       "searchable": 1,
       "changeable": 0,
       "playerType": 1,
@@ -26,7 +26,7 @@
     {
       "name": "解析",
       "type": 0,
-      "url": "https://www.hnjiexi.com/m3u8/?url="
+      "url": "https://maotai888.vip:966/?url="
     }
   ],
   "ads": [
