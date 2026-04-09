@@ -5,7 +5,7 @@
       "key": "maotai_cms",
       "name": "🍶 茅台资源 (采集站)",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -15,7 +15,7 @@
     {
       "name": "多线解析",
       "type": 0,
-      "url": "https://www.gszyv.com/m3u8/?url="
+      "url": "https://maotai888.vip:966/?url="
     }
   ],
   "lives": [
