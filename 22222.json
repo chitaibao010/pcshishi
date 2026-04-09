@@ -1,39 +1,14 @@
 {
-  "name": "我的自定义TVBox源"，
+  "name": "我的自定义TVBox源",
   "sites": [
     {
       "key": "maotai_cms",
       "name": "🍶 茅台资源 (采集站)",
-      "type": 1, 
+      "type": 1,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Ali",
-      "name": "☁️ 阿里资源 (需要jar包)",
-      "type": 3,
-      "api": "csp_AliYunPan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "你的阿里Token" 
     }
-  ],
-  "lives": [
-    {
-      "name": "常用直播",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
-    }
-  ],
-  "parses": [
-    {
-      "name": "聚合解析",
-      "type": 3,
-      "url": "Demo" 
-    }
-  ],
-  "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/0707/main/jar/custom_spider.jar"
+  ]
 }
