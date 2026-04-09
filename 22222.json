@@ -4,8 +4,8 @@
     {
       "key": "maotai_cms",
       "name": "🍶 茅台资源 (采集站)",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+      "type": 0,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnyun/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -31,7 +31,7 @@
     {
       "name": "直播源",
       "type": 0,
-      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
     }
   ]
 }
