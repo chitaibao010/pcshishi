@@ -4,8 +4,8 @@
     {
       "key": "maotai_cms",
       "name": "🍶 茅台资源 (采集站)",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+      "type": 0,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13,8 +13,8 @@
     {
       "key": "zy_1080p",
       "name": "🚀 1080P高清资源",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "type": 0,
+      "api": "https://jyzyapi.com/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -31,7 +31,7 @@
     {
       "name": "直播源",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+      "url": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/xml/"
     }
   ]
 }
