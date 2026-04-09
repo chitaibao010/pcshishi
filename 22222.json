@@ -1,5 +1,4 @@
 {
-  "spider": "../jar/spider.jar;md5;b3f23c52278b42b7ea0cc259f3f6f1c5",
   "name": "我的自定义TVBox源",
   "sites": [
     {
