@@ -1,7 +1,7 @@
 {
   "key": "xinlang_xml",
   "name": "新浪资源 (XML切片)",
-  "type": 0,  // 注意：xmlsea 必须对应 type 0
+  "type": 0, 
   "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlyun/at/xmlsea/",
   "searchable": 1,
   "quickSearch": 1,
