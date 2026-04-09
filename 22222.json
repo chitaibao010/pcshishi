@@ -4,7 +4,7 @@
       "key": "maotai_cms",
       "name": "🍶 茅台资源 (采集站)",
       "type": 0,
-      "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/at/xml",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13,7 +13,7 @@
       "key": "zy_1080p",
       "name": "🚀 1080P高清资源",
       "type": 1,
-      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
