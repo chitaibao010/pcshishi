@@ -1,16 +1,20 @@
 {
-  "spider": "../jar/spider.jar;md5;b3f23c52278b42b7ea0cc259f3f6f1c5",
   "sites": [
     {
-      "key": "xinlang_vod",
-      "name": "🎬新浪┃直连(CMS)",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/json",
+      "key": "xinlang_api",
+      "name": "新浪资源 (JSON版)",
+      "type": 1, 
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playUrl": "",
+      "changeable": 1,
+      "playerType": 2,
       "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
         "动作片",
         "喜剧片",
         "爱情片",
@@ -18,17 +22,35 @@
         "恐怖片",
         "剧情片",
         "战争片",
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
-        "纪录片",
         "动漫",
         "综艺"
       ]
     }
+  ],
+  "lives": [
+    {
+      "group": "自定义",
+      "channels": [
+        {
+          "name": "直播源",
+          "urls": [
+            "about:blank"
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "默认解析",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    }
+  ],
+  "flags": [
+    "youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "renren"
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "hm.baidu.com"
   ]
 }
