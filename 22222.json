@@ -3,7 +3,7 @@
     {
       "key": "点播源",
       "name": "点播源",
-      "type": 0,
+      "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "changeable": 0,
