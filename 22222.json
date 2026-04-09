@@ -1,14 +1,11 @@
-{
-  "spider": "",
-  "sites": [
-    {
-      "key": "maotai_zy",
-      "name": "🍶 茅台资源",
-      "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }
-  ]
-}
+[
+  {
+    "key": "maotai_zy",
+    "name": "🍶 茅台资源",
+    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  }
+]
