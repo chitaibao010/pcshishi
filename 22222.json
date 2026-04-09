@@ -4,7 +4,7 @@
       "key": "吃了吗",
       "name": "吃了吗",
       "type": 0,
-      "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13,7 +13,7 @@
       "key": "没吃饱",
       "name": "吃了吗",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
