@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "maotai_cms",
-      "name": "🍶 茅台资源 (采集站)",
+      "name": "哈哈",
       "type": 0,
       "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -11,7 +11,7 @@
     },
     {
       "key": "zy_1080p",
-      "name": "🚀 1080P高清资源",
+      "name": "啊啊",
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
