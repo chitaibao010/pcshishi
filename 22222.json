@@ -18,6 +18,13 @@
       ]
     }
   ],
+  "parses": [
+    {
+      "name": "解析",
+      "type": 0,
+      "url": "https://www.xinlangjiexi.com/m3u8/?url="
+    }
+  ],
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
