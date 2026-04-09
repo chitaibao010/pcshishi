@@ -6,7 +6,7 @@
       "key": "maotai_cms",
       "name": "🍶 茅台资源 (采集站)",
       "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
