@@ -1,5 +1,5 @@
 {
-  "spider": "",
+  "spider": "https://raw.githubusercontent.com/gaotianliuyun/0707/main/jar/custom_spider.jar;md5;1234567890abcdef1234567890abcdef",
   "name": "我的自定义TVBox源",
   "sites": [
     {
